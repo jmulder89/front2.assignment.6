@@ -1,0 +1,38 @@
+.content_int{
+	margin:5px;
+	padding:10px;
+	border:1px solid red;
+	font-style:italic;
+	position: relative;
+}
+
+.headerTXT{
+	margin:5px;
+	padding:10px;
+	border:1px solid red;
+	font-style:italic;
+	font-size: 1.2em;
+}
+
+.div_right{
+	font-size:70%;
+	float:right;
+	width:350px;
+	border:1px dashed green;
+	padding:3px;
+}
+
+.div_links {
+	font-size:2.1em;
+	font-weight:bold;
+	float:left;
+	width:1em;
+	height:1em;
+}
+
+
+
+
+
+
+

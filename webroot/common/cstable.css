@@ -1,0 +1,25 @@
+.table_1, th, tr, td{
+	padding: 5px;
+}
+
+.table_1{
+	float: left;
+	clear: both;
+}
+
+th, tr, td{
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+th{
+	background-color: #B22222;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+td{
+	background-color: #DCDCDC;
+	color: #000000;
+	
+}
